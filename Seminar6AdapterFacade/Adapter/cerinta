@@ -1,0 +1,5 @@
+4. Compania de transport in comun preia si infrastructura de Metrou a orasului si doreste ca biletele
+sau abonamentele achizitionate de catre clienti pentru transportul terestru sa poata fi folosite si
+pentru transportul subteran. Sisteme software ale celor doua moduri de transport sunt DIFERITE si se
+doreste implementarea unui modul care sa permita utilizarea celor doua sisteme fara a le MODIFICA.
+Modulul implementat trebuie sa se ocupe de validarea biletelor sau si a abonamentelor.
